@@ -1,7 +1,7 @@
 # Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iloveelsa)](https://solved.ac/iloveelsa)
 ## Baekjoon Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iloveelsa)](https://solved.ac/iloveelsa)
 <hr>
 
 # Main Skills 💻
