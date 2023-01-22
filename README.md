@@ -20,11 +20,11 @@
 
 ## Projects :green_apple:
 
-- **[아바타 화상미팅 서비스 <혼자야?>](https://github.com/CLovesJava/honjaya)**  (2022.07.11 ~ 2022.08.19)
-- **[AI 기반 모바일 추리 게임 <탐정: 렌즈 속 비밀>](https://github.com/CLovesJava/the_detective-secrets_in_the_lens)**  (2022.08.29 ~ 2022.10.07)
-- **[포트폴리오 3D 전시장 서비스 <포켓폴리오>](https://github.com/CLovesJava/pocketfolio)**  (2022.10.11 ~2022.11.25)
-- 게임 평점 사이트 (토이 프로젝트)  (2023.01.17 ~ 진행 중)
-- 학부 때 만든 "영화 예매 사이트(jsp)" 스프링부트로 개선하기 (토이 프로젝트) - 계획 중
+- **[아바타 화상미팅 서비스 <혼자야?>](https://github.com/CLovesJava#)**  (2022.07.11 ~ 2022.08.19)
+- **[AI 기반 모바일 추리 게임 <탐정: 렌즈 속 비밀>](https://github.com/CLovesJava#)**  (2022.08.29 ~ 2022.10.07)
+- **[포트폴리오 3D 전시장 서비스 <포켓폴리오>](https://github.com/CLovesJava#)**  (2022.10.11 ~2022.11.25)
+- 게임 평점 사이트 (토이 프로젝트)  (계획 중)
+- 학부 때 만든 "영화 예매 사이트(jsp)" 스프링부트로 개선하기 (토이 프로젝트)  (계획 중)
 
 
 
